@@ -1,5 +1,4 @@
 # React starter
-## dependencies
 Download de volgende software:
 - Visual studio code (https://code.visualstudio.com)
 - Npm (https://nodejs.org/en/download)
